@@ -1,0 +1,10 @@
+Project Plan:
+- Update Revision History
+- Added Project Deliverables (Section 2.3)
+- Changes Organizational Structure diagram (Section 3.1)
+- Added Business Analyst role to Võ Trung Hiếu (Section 3.2)
+
+Vision Document:
+- Update Revision History
+- Detailed and reorganize End User Features (Section 5)
+- Detailed Administrator statistic viewing features (Section 5)
